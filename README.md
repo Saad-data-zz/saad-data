@@ -22,6 +22,10 @@ Keywords: Machine Learning, Python, AI, HCI, NLP , Computer Vision , Smart Elect
 
 
 
+🧑🏽‍💻 I'm Currently doing my internship in Shou Chuany Technology at Sichuan, China
+
+
+
 👯 I’m Looking to Collaborate on Applications of Deep learning, Regression Models and Advenace Python Data Structures
 
 
