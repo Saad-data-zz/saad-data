@@ -2,15 +2,11 @@
 
 
 
-Keywords: Machine Learning, Python, AI, HCI, NLP , Computer Vision , Smart Electronics, Neural Networks and Data Analysis.
+Keywords: Machine Learning, Python, AI, NLP , Computer Vision , Smart Electronics and Neural Networks.
 
 
 
-📜 I'm Currently Student of Bachelors of Engineering (Electronic Information Engineering).
-
-
-
-👨🏽‍🎓 I'm Currently Studing at China West Normal University in Sichuan, China (on Fully Funded by Sichuan Provincial Government Scholarship).
+🎓 I'm Currently Student of Bachelors of Engineering (Electronic Information Engineering) at China West Normal University in Sichuan, China.
 
 
 
@@ -30,13 +26,10 @@ Keywords: Machine Learning, Python, AI, HCI, NLP , Computer Vision , Smart Elect
 
 
 
-🤔 I’m Looking for Help with Machine Learning Models (Deep learning), Computer Vision Project and Python Advance Data Structure
-
+🤔 I’m Looking for Help in Writing the articles on  AI, Machine Learning Models & Deep learning
 
 
 📫 How to Reach Me:
-
-
 
 
 
