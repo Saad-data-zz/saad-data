@@ -22,6 +22,10 @@ Keywords: Machine Learning, Python, AI, NLP , Computer Vision , Smart Electronic
 
 
 
+🤝 Student Volunteer at 25th ACM Conference On Computer-Supported Cooperative Work And Social Computing (held virtually Nov 2022)
+
+
+
 👯 I’m Looking to Collaborate on Applications of Deep learning, Regression Models and Advenace Python Data Structures
 
 
@@ -29,8 +33,6 @@ Keywords: Machine Learning, Python, AI, NLP , Computer Vision , Smart Electronic
 🤔 I’m Looking for Help in Writing the articles on  AI, Machine Learning Models & Deep learning
 
 
- 
- Student Volunteer @ 25th ACM Conference On Computer-Supported Cooperative Work And Social Computing 
  
  
  
